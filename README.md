@@ -1,4 +1,6 @@
-# git-submodule-mss1
+# git-submodule-mss2
+
+This one receives api call from mms1.
 
 ## Initial setup
 

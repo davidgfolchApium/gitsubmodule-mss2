@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.apiumhub.articles.git-submodules</groupId>
-    <artifactId>mss1</artifactId>
+    <artifactId>mss2</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>mss1</name>
+    <name>mss2</name>
     <description>Parent mss1 git project using api-client git submodule</description>
 
     <parent>
@@ -26,7 +26,7 @@
     </properties>
 
     <modules>
-        <module>gitsubmodule-apiclient/pom-mss1.xml</module>
+        <module>gitsubmodule-apiclient/pom-mss2.xml</module>
     </modules>
 
     <dependencies>
