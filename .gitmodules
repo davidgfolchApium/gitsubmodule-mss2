@@ -1,0 +1,4 @@
+[submodule "gitsubmodule-apiclient"]
+	path = gitsubmodule-apiclient
+	url = https://github.com/davidgfolchApium/gitsubmodule-apiclient
+	branch = main
